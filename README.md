@@ -1,3 +1,8 @@
-# ninja_trips
+# Simple animation in flutter
 
-A new Ninja Flutter project.
+# compile
+
+- flutter channel dev
+- flutter upgrade
+- flutter pub upgrade
+- flutter pub get
